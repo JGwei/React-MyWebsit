@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 使用React開發第一個專案
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
