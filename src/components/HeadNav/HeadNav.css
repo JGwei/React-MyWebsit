@@ -1,0 +1,62 @@
+.HeadNav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.HeadNav-logo{
+    display: flex;
+    align-items: center;
+}
+
+.HeadNav-logo-img{
+    width: 60px;
+    height: 60px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .HeadNav-logo-img {
+        animation: HeadNav-logo-spin infinite 20s linear;
+    }
+}
+@keyframes HeadNav-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+.HeadNav-bar{
+    font-size: 20px;
+}
+.HeadNav-ul{
+    display: flex;
+    padding: 0;
+}
+.HeadNav-li{
+    padding: 0 5px;
+}
+
+.HeadNav-Menu-Bar-ul{
+   text-align: center;
+   font-size: 28px;
+   padding: 0;
+}
+.HeadNav-Menu-Bar-li{
+    padding: 10px 0;
+ }
+.HeadNav-Menu-Bar{
+    display: none;
+}
+
+@media screen and (max-width:992px) {
+    .HeadNav-bar{
+        display: none;
+    }
+    .HeadNav-Menu-Bar{
+        display: flex;
+    }
+}

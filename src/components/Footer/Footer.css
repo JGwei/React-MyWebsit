@@ -1,0 +1,14 @@
+.Footer{
+    text-align: center;
+    line-height: 60px;
+}
+.icon{
+    padding: 0 10px;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 992px) {
+    .Footer-{
+        word-break: keep-all;
+    }
+}
