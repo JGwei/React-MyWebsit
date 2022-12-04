@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-MyWebsit/static/css/main.7213110d.css",
-    "main.js": "/React-MyWebsit/static/js/main.fce70ec6.js",
+    "main.js": "/React-MyWebsit/static/js/main.90cd903d.js",
     "static/media/angular.png": "/React-MyWebsit/static/media/angular.e64384ba37c2cdc0eba9.png",
     "static/media/頭像.jpg": "/React-MyWebsit/static/media/頭像.52d42adbcc94361ca8ec.jpg",
     "static/media/Django.png": "/React-MyWebsit/static/media/Django.fc1e02d94fbee2499f33.png",
@@ -9,10 +9,10 @@
     "static/media/logo.svg": "/React-MyWebsit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-MyWebsit/index.html",
     "main.7213110d.css.map": "/React-MyWebsit/static/css/main.7213110d.css.map",
-    "main.fce70ec6.js.map": "/React-MyWebsit/static/js/main.fce70ec6.js.map"
+    "main.90cd903d.js.map": "/React-MyWebsit/static/js/main.90cd903d.js.map"
   },
   "entrypoints": [
     "static/css/main.7213110d.css",
-    "static/js/main.fce70ec6.js"
+    "static/js/main.90cd903d.js"
   ]
 }
